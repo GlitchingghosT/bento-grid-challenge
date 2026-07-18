@@ -3,7 +3,7 @@
 A responsive Frontend Mentor bento-grid implementation for presenting social-media product metrics in an asymmetric card layout.
 
 - **Live demo:** https://bento-olive.vercel.app
-- **Source:** https://github.com/GlitchingghosT/Bento
+- **Source:** https://github.com/GlitchingghosT/bento-grid-challenge
 
 ## Features
 
